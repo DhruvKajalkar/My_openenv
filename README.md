@@ -260,3 +260,7 @@ Final Score = Average Performance
 Scaler Hackathon Submission
 
 Insurance Claims RL Agent
+
+Dhruv Kajalkar
+Shubham Deshpande 
+Pakhi Chaturvedi
